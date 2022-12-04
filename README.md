@@ -1,4 +1,4 @@
-# hotelJojo Hotel del Jojo
+# Hotel del Jojo
 Selamat datang di _Hotel del Jojo_!
 
 Berikut adalah harga dari kamar-kamar yang kami punya:
